@@ -1,0 +1,44 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/Angular-Hello-World/dist
+/Angular-Hello-World/tmp
+/Angular-Hello-World/out-tsc
+
+# dependencies
+/Angular-Hello-World/node_modules
+
+# profiling files
+/Angular-Hello-World/chrome-profiler-events.json
+/Angular-Hello-World/speed-measure-plugin.json
+
+# IDEs and editors
+/Angular-Hello-World/.idea
+/Angular-Hello-World/.project
+/Angular-Hello-World/.classpath
+/Angular-Hello-World/.c9/
+/Angular-Hello-World/*.launch
+/Angular-Hello-World/.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
