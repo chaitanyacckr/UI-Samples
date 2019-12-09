@@ -1,0 +1,22 @@
+
+
+.userContainer{
+    text-align: center;
+    padding: 30px;
+}
+
+.uRow{
+    display: flex;
+   
+    margin:10px;
+}
+
+.uRow label{
+    padding: 10px;
+    font-weight: bold;
+    width: 150px;
+    text-align: left;
+}
+.uRow div{
+    padding: 10px;
+}

@@ -1,0 +1,22 @@
+<app-header-component></app-header-component>
+<p>
+  Below are the list of active accounts.
+</p>
+
+<table class="accountDetails"> 
+  <thead>
+     <tr><th>Account No</th>
+      <th>Type</th>
+      <th>Current Balance</th>
+      <th>View account Activity</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr *ngFor="let account of accounts">
+          <td>{{account.acctNumber}}</td>
+          <td>{{account.acctType}}</td>
+          <td>{{account.currentBalance}}</td>
+          <td><a href="accountActivity">view Activity</a></td>
+      </tr>
+  </tbody>
+</table>

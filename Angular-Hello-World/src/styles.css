@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+select, input {
+
+    min-width: 150px;
+    padding: 1px;
+    font-size: 14px;
+}
+
+body{
+    background: lightgray;
+    font-family: calibri;
+}

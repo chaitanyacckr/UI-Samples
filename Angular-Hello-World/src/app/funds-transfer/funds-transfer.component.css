@@ -1,0 +1,22 @@
+
+
+.fTContainer{
+    text-align: center;
+    padding: 30px;
+}
+
+.ftRow{
+    display: flex;
+   
+    margin:10px;
+}
+
+.ftRow label{
+    padding: 10px;
+    font-weight: bold;
+    width: 200px;
+    text-align: left;
+}
+.ftRow div{
+    padding: 10px;
+}

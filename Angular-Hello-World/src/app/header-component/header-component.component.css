@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    background: antiquewhite;
+      
+  }
+  
+  h2{
+      padding: 10px;
+      height: 50px;
+    
+  }
+  
+  .main{
+      margin:100px;
+      margin-top:30px;
+  }
+  
+  .rightAligned{
+      margin-left: auto;
+  }
+  
+  .navbar > div {
+      padding: 5px;;
+  }
+  
+  .header{
+      display: flex;
+  }
+  
+  .mAuto{
+      margin-left: auto;
+  }

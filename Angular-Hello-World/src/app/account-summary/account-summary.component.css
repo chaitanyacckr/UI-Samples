@@ -1,0 +1,14 @@
+.accountDetails{
+
+    width: 70%;
+
+}
+
+.accountDetails thead  th{
+    background: aliceblue;
+}
+
+.accountDetails tbody td {
+    border-bottom: 1px solid #eeeeee;
+    text-align: center;
+}

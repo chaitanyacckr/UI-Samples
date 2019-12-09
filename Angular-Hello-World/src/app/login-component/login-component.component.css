@@ -1,0 +1,21 @@
+
+.loginContainer{
+    text-align: center;
+    padding: 30px;
+}
+
+.lRow{
+    display: flex;
+   
+    margin:10px;
+}
+
+.lRow label{
+    padding: 10px;
+    font-weight: bold;
+    width: 100px;
+    text-align: left;
+}
+.lRow div{
+    padding: 10px;
+}

@@ -1,0 +1,18 @@
+.accountActivity{
+
+    width: 70%;
+
+}
+
+.accountActivity thead  th{
+    background: aliceblue;
+}
+
+.accountActivity tbody td {
+    border-bottom: 1px solid #eeeeee;
+    text-align: center;
+}
+
+.activityContainer{
+    margin: 30px;
+}

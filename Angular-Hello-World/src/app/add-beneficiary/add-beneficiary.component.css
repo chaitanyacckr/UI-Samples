@@ -1,0 +1,22 @@
+
+
+.beneficiaryContainer{
+    text-align: center;
+    padding: 30px;
+}
+
+.bRow{
+    display: flex;
+   
+    margin:10px;
+}
+
+.bRow label{
+    padding: 10px;
+    font-weight: bold;
+    width: 200px;
+    text-align: left;
+}
+.bRow div{
+    padding: 10px;
+}

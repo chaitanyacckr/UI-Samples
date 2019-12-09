@@ -1,0 +1,21 @@
+
+.registerContainer{
+    text-align: center;
+    padding: 30px;
+}
+
+.rRow{
+    display: flex;
+   
+    margin:10px;
+}
+
+.rRow label{
+    padding: 10px;
+    font-weight: bold;
+    width: 100px;
+    text-align: left;
+}
+.rRow div{
+    padding: 10px;
+}

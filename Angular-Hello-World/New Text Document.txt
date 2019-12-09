@@ -1,1 +1,7 @@
-yry
+Micro Services
+        -- Account services / show Accounts/show activity/openAccount
+        -- login service/user profile service/register service
+        -- fundstransferservice
+        -- getListOFbeneficiary/ showlistofbeneficiaries
+        -- API gateway
+        -- Service Discovery
